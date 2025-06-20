@@ -11,7 +11,7 @@
 
 ## Icons
 
-| Icon                                  | File                                           |
+| Icon                                  | SVG                                            |
 | :------------------------------------ | :--------------------------------------------- |
 | ![icon-dark](icons/icon-dark.svg)     | [icons/icon-dark.svg](icons/icon-dark.svg)     |
 | ![icon-light](icons/icon-light.svg)   | [icons/icon-light.svg](icons/icon-light.svg)   |
