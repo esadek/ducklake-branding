@@ -1,5 +1,7 @@
 # DuckLake Branding
 
+DuckLake logos, icons and colors
+
 ## Logos
 
 | Logo                                                    | SVG                                                        | PNG                                                        |
