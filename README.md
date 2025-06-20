@@ -2,20 +2,20 @@
 
 ## Logos
 
-| Logo                                                    | SVG                                                                  | PNG                                                                  |
-| :------------------------------------------------------ | :------------------------------------------------------------------- | :------------------------------------------------------------------- |
-| ![logo-dark-inline](logos/svg/logo-dark-inline.svg)     | [logos/svg/logo-dark-inline.svg](logos/svg/logo-dark-inline.svg)     | [logos/png/logo-dark-inline.png](logos/png/logo-dark-inline.png)     |
-| ![logo-dark-stacked](logos/svg/logo-dark-stacked.svg)   | [logos/svg/logo-dark-stacked.svg](logos/svg/logo-dark-stacked.svg)   | [logos/png/logo-dark-stacked.png](logos/png/logo-dark-stacked.png)   |
-| ![logo-light-inline](logos/svg/logo-light-inline.svg)   | [logos/svg/logo-light-inline.svg](logos/svg/logo-light-inline.svg)   | [logos/png/logo-light-inline.png](logos/png/logo-light-inline.png)   |
-| ![logo-light-stacked](logos/svg/logo-light-stacked.svg) | [logos/svg/logo-light-stacked.svg](logos/svg/logo-light-stacked.svg) | [logos/png/logo-light-stacked.png](logos/png/logo-light-stacked.png) |
+| Logo                                                    | SVG                                                        | PNG                                                        |
+| :------------------------------------------------------ | :--------------------------------------------------------- | :--------------------------------------------------------- |
+| ![logo-dark-inline](logos/svg/logo-dark-inline.svg)     | [logo-dark-inline.svg](logos/svg/logo-dark-inline.svg)     | [logo-dark-inline.png](logos/png/logo-dark-inline.png)     |
+| ![logo-dark-stacked](logos/svg/logo-dark-stacked.svg)   | [logo-dark-stacked.svg](logos/svg/logo-dark-stacked.svg)   | [logo-dark-stacked.png](logos/png/logo-dark-stacked.png)   |
+| ![logo-light-inline](logos/svg/logo-light-inline.svg)   | [logo-light-inline.svg](logos/svg/logo-light-inline.svg)   | [logo-light-inline.png](logos/png/logo-light-inline.png)   |
+| ![logo-light-stacked](logos/svg/logo-light-stacked.svg) | [logo-light-stacked.svg](logos/svg/logo-light-stacked.svg) | [logo-light-stacked.png](logos/png/logo-light-stacked.png) |
 
 ## Icons
 
-| Icon                                  | SVG                                            |
-| :------------------------------------ | :--------------------------------------------- |
-| ![icon-dark](icons/icon-dark.svg)     | [icons/icon-dark.svg](icons/icon-dark.svg)     |
-| ![icon-light](icons/icon-light.svg)   | [icons/icon-light.svg](icons/icon-light.svg)   |
-| ![icon-simple](icons/icon-simple.svg) | [icons/icon-simple.svg](icons/icon-simple.svg) |
+| Icon                                  | SVG                                      |
+| :------------------------------------ | :--------------------------------------- |
+| ![icon-dark](icons/icon-dark.svg)     | [icon-dark.svg](icons/icon-dark.svg)     |
+| ![icon-light](icons/icon-light.svg)   | [icon-light.svg](icons/icon-light.svg)   |
+| ![icon-simple](icons/icon-simple.svg) | [icon-simple.svg](icons/icon-simple.svg) |
 
 ## Colors
 
