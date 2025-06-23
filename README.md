@@ -25,12 +25,12 @@ DuckLake logos, icons and colors
 
 | Color                                              | Hex       | RGB                 | HSL                   |
 | :------------------------------------------------- | :-------- | :------------------ | :-------------------- |
-| ![#2EAFFF](https://place-hold.it/24/2EAFFF?text=+) | `#2EAFFF` | `rgb(46, 175, 255)` | `hsl(203, 100%, 59%)` |
-| ![#1A1A1A](https://place-hold.it/24/1A1A1A?text=+) | `#1A1A1A` | `rgb(26, 26, 26)`   | `hsl(0, 0%, 10%)`     |
+| ![#2EAFFF](https://place-hold.it/32/2EAFFF?text=+) | `#2EAFFF` | `rgb(46, 175, 255)` | `hsl(203, 100%, 59%)` |
+| ![#1A1A1A](https://place-hold.it/32/1A1A1A?text=+) | `#1A1A1A` | `rgb(26, 26, 26)`   | `hsl(0, 0%, 10%)`     |
 
 ### Logotype
 
 | Color                                              | Hex       | RGB                  | HSL               |
 | :------------------------------------------------- | :-------- | :------------------- | :---------------- |
-| ![#0D0D0D](https://place-hold.it/24/0D0D0D?text=+) | `#0D0D0D` | `rgb(13, 13, 13)`    | `hsl(0, 0%, 5%)`  |
-| ![#F2F2F2](https://place-hold.it/24/F2F2F2?text=+) | `#F2F2F2` | `rgb(242, 242, 242)` | `hsl(0, 0%, 95%)` |
+| ![#0D0D0D](https://place-hold.it/32/0D0D0D?text=+) | `#0D0D0D` | `rgb(13, 13, 13)`    | `hsl(0, 0%, 5%)`  |
+| ![#F2F2F2](https://place-hold.it/32/F2F2F2?text=+) | `#F2F2F2` | `rgb(242, 242, 242)` | `hsl(0, 0%, 95%)` |
